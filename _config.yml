@@ -10,8 +10,8 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
+title:            'Grace's Thoughts'
+tagline:          'Where Grace provides her insightful thoughts and many interests'
 description:      'A Sample blog using Jekyll Metro'
 #url:              'http://192.168.1.11:4000'
 baseurl:          'gracesthoughts.github.io'
@@ -33,21 +33,21 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Grace'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:      
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         'https://github.com/gracesthoughts'
+gplus:          
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+stackoverflow:  
+twitter:        
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
