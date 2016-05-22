@@ -13,8 +13,8 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Jekyll Metro'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
-url:              'http://192.168.1.11:4000'
-baseurl:          ''
+#url:              'http://192.168.1.11:4000'
+baseurl:          'gracesthoughts.github.io'
 
 # Navigation
 navigation:
